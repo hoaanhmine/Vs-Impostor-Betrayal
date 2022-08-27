@@ -1,0 +1,94 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "reportedd",
+		"player1": "bf",
+		"player2": "redreportedd",
+		"player3": null,
+		"events": [
+			[
+				1612.90322580645,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73548.3870967742,
+				[
+					[
+						"Change Character",
+						"1",
+						"blackre"
+					],
+					[
+						"Change Character",
+						"2",
+						"redreporteddalt"
+					]
+				]
+			],
+			[
+				73551.747311828,
+				[
+					[
+						"Play Animation",
+						"what",
+						"gf"
+					]
+				]
+			],
+			[
+				74596.7741935484,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				74838.7096774194,
+				[
+					[
+						"Play Animation",
+						"well",
+						"dad"
+					]
+				]
+			],
+			[
+				104516.129032258,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				129032.258064516,
+				[
+					[
+						"Play Animation",
+						"end",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 186,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "report-edd"
+	}
+}

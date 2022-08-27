@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "lmao i gotta go to the bathroom",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "are you fucking kidding me",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "green"
+		},
+		{
+			"expression": "shocked",
+			"text": "AAAAAAAAAAAAA",
+			"boxState": "angry",
+			"speed": 0.015,
+			"portrait": "red"
+		},
+		{
+			"speed": 0.1,
+			"portrait": "black",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"speed": 0.04,
+			"portrait": "green",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "fuck"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "i have a bad feeling about this"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "green",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "yeah no fucking shit they have a big ass bloody knife"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "black",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"speed": 0.04,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "rap battle"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "green",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "red lets just leave before its too late"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "no"
+		}
+	]
+}

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scissor.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="scissor down0000" x="0" y="0" width="1113" height="792" frameX="0" frameY="-119" frameWidth="1119" frameHeight="918"/>
+	<SubTexture name="scissor down0001" x="1113" y="0" width="1119" height="787" frameX="0" frameY="-124" frameWidth="1119" frameHeight="918"/>
+	<SubTexture name="scissor down0002" x="2232" y="0" width="1103" height="800" frameX="-1" frameY="-112" frameWidth="1119" frameHeight="918"/>
+	<SubTexture name="scissor down0003" x="3335" y="0" width="1016" height="869" frameX="-6" frameY="-46" frameWidth="1119" frameHeight="918"/>
+	<SubTexture name="scissor down0004" x="4351" y="0" width="975" height="903" frameX="-8" frameY="-14" frameWidth="1119" frameHeight="918"/>
+	<SubTexture name="scissor down0005" x="5326" y="0" width="956" height="918" frameX="-9" frameY="0" frameWidth="1119" frameHeight="918"/>
+	<SubTexture name="scissor down0006" x="6282" y="0" width="968" height="908" frameX="-8" frameY="-9" frameWidth="1119" frameHeight="918"/>
+	<SubTexture name="scissor idle0000" x="7250" y="0" width="929" height="929" frameX="-119" frameY="-15" frameWidth="1048" frameHeight="944"/>
+	<SubTexture name="scissor idle0001" x="7250" y="0" width="929" height="929" frameX="-119" frameY="-15" frameWidth="1048" frameHeight="944"/>
+	<SubTexture name="scissor idle0002" x="0" y="929" width="941" height="941" frameX="-58" frameY="0" frameWidth="1048" frameHeight="944"/>
+	<SubTexture name="scissor idle0003" x="0" y="929" width="941" height="941" frameX="-58" frameY="0" frameWidth="1048" frameHeight="944"/>
+	<SubTexture name="scissor idle0004" x="941" y="929" width="937" height="936" frameX="-12" frameY="-1" frameWidth="1048" frameHeight="944"/>
+	<SubTexture name="scissor idle0005" x="941" y="929" width="937" height="936" frameX="-12" frameY="-1" frameWidth="1048" frameHeight="944"/>
+	<SubTexture name="scissor idle0006" x="1878" y="929" width="932" height="933" frameX="-3" frameY="-3" frameWidth="1048" frameHeight="944"/>
+	<SubTexture name="scissor idle0007" x="1878" y="929" width="932" height="933" frameX="-3" frameY="-3" frameWidth="1048" frameHeight="944"/>
+	<SubTexture name="scissor idle0008" x="2810" y="929" width="931" height="932" frameX="0" frameY="-4" frameWidth="1048" frameHeight="944"/>
+	<SubTexture name="scissor idle0009" x="2810" y="929" width="931" height="932" frameX="0" frameY="-4" frameWidth="1048" frameHeight="944"/>
+	<SubTexture name="scissor idle0010" x="2810" y="929" width="931" height="932" frameX="0" frameY="-4" frameWidth="1048" frameHeight="944"/>
+	<SubTexture name="scissor idle0011" x="2810" y="929" width="931" height="932" frameX="0" frameY="-4" frameWidth="1048" frameHeight="944"/>
+	<SubTexture name="scissor idle0012" x="2810" y="929" width="931" height="932" frameX="0" frameY="-4" frameWidth="1048" frameHeight="944"/>
+	<SubTexture name="scissor idle0013" x="2810" y="929" width="931" height="932" frameX="0" frameY="-4" frameWidth="1048" frameHeight="944"/>
+	<SubTexture name="scissor left0000" x="3741" y="929" width="900" height="901" frameX="-25" frameY="0" frameWidth="925" frameHeight="954"/>
+	<SubTexture name="scissor left0001" x="4641" y="929" width="923" height="924" frameX="-2" frameY="-24" frameWidth="925" frameHeight="954"/>
+	<SubTexture name="scissor left0002" x="5564" y="929" width="925" height="926" frameX="0" frameY="-28" frameWidth="925" frameHeight="954"/>
+	<SubTexture name="scissor left0003" x="6489" y="929" width="911" height="913" frameX="-14" frameY="-10" frameWidth="925" frameHeight="954"/>
+	<SubTexture name="scissor left0004" x="0" y="1870" width="904" height="906" frameX="-21" frameY="-4" frameWidth="925" frameHeight="954"/>
+	<SubTexture name="scissor left0005" x="904" y="1870" width="900" height="901" frameX="-25" frameY="0" frameWidth="925" frameHeight="954"/>
+	<SubTexture name="scissor right0000" x="1804" y="1870" width="718" height="717" frameX="-15" frameY="-16" frameWidth="767" frameHeight="771"/>
+	<SubTexture name="scissor right0001" x="2522" y="1870" width="703" height="702" frameX="-59" frameY="-63" frameWidth="767" frameHeight="771"/>
+	<SubTexture name="scissor right0002" x="3225" y="1870" width="709" height="707" frameX="-58" frameY="-64" frameWidth="767" frameHeight="771"/>
+	<SubTexture name="scissor right0003" x="3934" y="1870" width="718" height="717" frameX="-15" frameY="-15" frameWidth="767" frameHeight="771"/>
+	<SubTexture name="scissor right0004" x="4652" y="1870" width="727" height="726" frameX="-7" frameY="-7" frameWidth="767" frameHeight="771"/>
+	<SubTexture name="scissor right0005" x="5379" y="1870" width="734" height="733" frameX="0" frameY="0" frameWidth="767" frameHeight="771"/>
+	<SubTexture name="scissor up0000" x="6113" y="1870" width="808" height="1037" frameX="-6" frameY="-27" frameWidth="927" frameHeight="1065"/>
+	<SubTexture name="scissor up0001" x="6921" y="1870" width="773" height="1065" frameX="-8" frameY="0" frameWidth="927" frameHeight="1065"/>
+	<SubTexture name="scissor up0002" x="0" y="2935" width="782" height="1059" frameX="-7" frameY="-6" frameWidth="927" frameHeight="1065"/>
+	<SubTexture name="scissor up0003" x="782" y="2935" width="814" height="1032" frameX="-6" frameY="-31" frameWidth="927" frameHeight="1065"/>
+	<SubTexture name="scissor up0004" x="1596" y="2935" width="879" height="980" frameX="-2" frameY="-80" frameWidth="927" frameHeight="1065"/>
+	<SubTexture name="scissor up0005" x="2475" y="2935" width="927" height="941" frameX="0" frameY="-117" frameWidth="927" frameHeight="1065"/>
+	<SubTexture name="scissor up0006" x="3402" y="2935" width="918" height="949" frameX="0" frameY="-110" frameWidth="927" frameHeight="1065"/>
+</TextureAtlas>

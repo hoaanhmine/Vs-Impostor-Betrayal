@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "green",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "fuck"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "aw shucks looks like we really got ourselves into it this time"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "green",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "stfu this is srs"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "no"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "black",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "green",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "like scoobs lets get out of here"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "no"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "green",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "we are going to fucking die you idiot"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "no"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "green",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "bruh"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "rap battle"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "green",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "wtf is wrong with you"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "yes"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "ima go play tf2 brb"
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-150,
+				-100
+			],
+			"idle_offsets": [
+				-150,
+				-100
+			],
+			"loop_name": "impostor neutral",
+			"idle_name": "impostor neutral"
+		},
+		{
+			"loop_offsets": [
+				-151,
+				-100
+			],
+			"anim": "mad",
+			"idle_offsets": [
+				-151,
+				-100
+			],
+			"loop_name": "imposter mad",
+			"idle_name": "imposter mad"
+		},
+		{
+			"loop_name": "impostor happy",
+			"idle_offsets": [
+				-150,
+				-100
+			],
+			"idle_name": "impostor happy",
+			"anim": "happy",
+			"loop_offsets": [
+				-150,
+				-100
+			]
+		},
+		{
+			"loop_name": "impostor sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "impostor sad",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "impostor shocked",
+			"idle_offsets": [
+				-150,
+				-100
+			],
+			"idle_name": "impostor shocked",
+			"anim": "shocked",
+			"loop_offsets": [
+				-150,
+				-100
+			]
+		}
+	],
+	"image": "red"
+}

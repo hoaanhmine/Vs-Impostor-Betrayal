@@ -1,0 +1,63 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "green",
+	"animations": [
+		{
+			"idle_offsets": [
+				-90,
+				-100
+			],
+			"loop_offsets": [
+				-90,
+				-100
+			],
+			"anim": "talk",
+			"idle_name": "green imposor evilous",
+			"loop_name": "green imposor evilous"
+		},
+		{
+			"idle_offsets": [
+				-151,
+				-100
+			],
+			"anim": "mad",
+			"loop_offsets": [
+				-151,
+				-100
+			],
+			"idle_name": "green impostor angry",
+			"loop_name": "green impostor angry"
+		},
+		{
+			"loop_offsets": [
+				-150,
+				-100
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				-150,
+				-100
+			],
+			"loop_name": "green impoters neutral",
+			"idle_name": "green impoters neutral"
+		},
+		{
+			"loop_offsets": [
+				-150,
+				-100
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-150,
+				-100
+			],
+			"loop_name": "greenimportor happy",
+			"idle_name": "greenimportor happy"
+		}
+	]
+}

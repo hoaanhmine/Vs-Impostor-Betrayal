@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="impostorR.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="imposter left0000" x="0" y="0" width="611" height="410" frameX="-2" frameY="-1" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="imposter left0001" x="611" y="0" width="615" height="411" frameX="-1" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="imposter left0002" x="1226" y="0" width="646" height="388" frameX="0" frameY="-23" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="imposter left0003" x="1872" y="0" width="628" height="393" frameX="-12" frameY="-18" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="imposter left0004" x="2500" y="0" width="629" height="394" frameX="-12" frameY="-17" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="imposter left0005" x="3129" y="0" width="629" height="394" frameX="-12" frameY="-17" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="imposter left0006" x="3129" y="0" width="629" height="394" frameX="-12" frameY="-17" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="imposter left0007" x="3129" y="0" width="629" height="394" frameX="-12" frameY="-17" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="imposter left0008" x="3129" y="0" width="629" height="394" frameX="-12" frameY="-17" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="imposter left0009" x="3129" y="0" width="629" height="394" frameX="-12" frameY="-17" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="impostor attack0000" x="0" y="411" width="1158" height="426" frameX="-88" frameY="-62" frameWidth="1246" frameHeight="489"/>
+	<SubTexture name="impostor attack0001" x="1158" y="411" width="1033" height="489" frameX="-88" frameY="0" frameWidth="1246" frameHeight="489"/>
+	<SubTexture name="impostor attack0002" x="2191" y="411" width="953" height="423" frameX="-86" frameY="-62" frameWidth="1246" frameHeight="489"/>
+	<SubTexture name="impostor attack0003" x="3144" y="411" width="906" height="417" frameX="-18" frameY="-62" frameWidth="1246" frameHeight="489"/>
+	<SubTexture name="impostor attack0004" x="0" y="900" width="553" height="414" frameX="0" frameY="-62" frameWidth="1246" frameHeight="489"/>
+	<SubTexture name="impostor attack0005" x="553" y="900" width="552" height="413" frameX="-1" frameY="-62" frameWidth="1246" frameHeight="489"/>
+	<SubTexture name="impostor attack0006" x="1105" y="900" width="549" height="414" frameX="-2" frameY="-62" frameWidth="1246" frameHeight="489"/>
+	<SubTexture name="impostor attack0007" x="1654" y="900" width="551" height="415" frameX="0" frameY="-62" frameWidth="1246" frameHeight="489"/>
+	<SubTexture name="impostor attack0008" x="2205" y="900" width="551" height="415" frameX="0" frameY="-62" frameWidth="1246" frameHeight="489"/>
+	<SubTexture name="impostor attack0009" x="2205" y="900" width="551" height="415" frameX="0" frameY="-62" frameWidth="1246" frameHeight="489"/>
+	<SubTexture name="impostor attack0010" x="2205" y="900" width="551" height="415" frameX="0" frameY="-62" frameWidth="1246" frameHeight="489"/>
+	<SubTexture name="impostor down0000" x="2756" y="900" width="542" height="377" frameX="0" frameY="-6" frameWidth="562" frameHeight="390"/>
+	<SubTexture name="impostor down0001" x="2756" y="900" width="542" height="377" frameX="0" frameY="-6" frameWidth="562" frameHeight="390"/>
+	<SubTexture name="impostor down0002" x="3298" y="900" width="558" height="389" frameX="-2" frameY="0" frameWidth="562" frameHeight="390"/>
+	<SubTexture name="impostor down0003" x="0" y="1315" width="560" height="390" frameX="-2" frameY="0" frameWidth="562" frameHeight="390"/>
+	<SubTexture name="impostor down0004" x="0" y="1315" width="560" height="390" frameX="-2" frameY="0" frameWidth="562" frameHeight="390"/>
+	<SubTexture name="impostor down0005" x="0" y="1315" width="560" height="390" frameX="-2" frameY="0" frameWidth="562" frameHeight="390"/>
+	<SubTexture name="impostor idle0000" x="560" y="1315" width="601" height="371" frameX="-2" frameY="-25" frameWidth="607" frameHeight="396"/>
+	<SubTexture name="impostor idle0001" x="560" y="1315" width="601" height="371" frameX="-2" frameY="-25" frameWidth="607" frameHeight="396"/>
+	<SubTexture name="impostor idle0002" x="560" y="1315" width="601" height="371" frameX="-2" frameY="-25" frameWidth="607" frameHeight="396"/>
+	<SubTexture name="impostor idle0003" x="1161" y="1315" width="607" height="373" frameX="0" frameY="-19" frameWidth="607" frameHeight="396"/>
+	<SubTexture name="impostor idle0004" x="1161" y="1315" width="607" height="373" frameX="0" frameY="-19" frameWidth="607" frameHeight="396"/>
+	<SubTexture name="impostor idle0005" x="1768" y="1315" width="605" height="373" frameX="0" frameY="-19" frameWidth="607" frameHeight="396"/>
+	<SubTexture name="impostor idle0006" x="2373" y="1315" width="579" height="383" frameX="-2" frameY="-8" frameWidth="607" frameHeight="396"/>
+	<SubTexture name="impostor idle0007" x="2373" y="1315" width="579" height="383" frameX="-2" frameY="-8" frameWidth="607" frameHeight="396"/>
+	<SubTexture name="impostor idle0008" x="2952" y="1315" width="548" height="387" frameX="-2" frameY="-4" frameWidth="607" frameHeight="396"/>
+	<SubTexture name="impostor idle0009" x="2952" y="1315" width="548" height="387" frameX="-2" frameY="-4" frameWidth="607" frameHeight="396"/>
+	<SubTexture name="impostor idle0010" x="3500" y="1315" width="537" height="389" frameX="-2" frameY="-2" frameWidth="607" frameHeight="396"/>
+	<SubTexture name="impostor idle0011" x="3500" y="1315" width="537" height="389" frameX="-2" frameY="-2" frameWidth="607" frameHeight="396"/>
+	<SubTexture name="impostor idle0012" x="0" y="1705" width="535" height="391" frameX="-2" frameY="0" frameWidth="607" frameHeight="396"/>
+	<SubTexture name="impostor idle0013" x="0" y="1705" width="535" height="391" frameX="-2" frameY="0" frameWidth="607" frameHeight="396"/>
+	<SubTexture name="impostor right0000" x="535" y="1705" width="605" height="375" frameX="-4" frameY="0" frameWidth="609" frameHeight="375"/>
+	<SubTexture name="impostor right0001" x="1140" y="1705" width="598" height="375" frameX="-4" frameY="0" frameWidth="609" frameHeight="375"/>
+	<SubTexture name="impostor right0002" x="1738" y="1705" width="565" height="375" frameX="0" frameY="0" frameWidth="609" frameHeight="375"/>
+	<SubTexture name="impostor right0003" x="2303" y="1705" width="567" height="375" frameX="0" frameY="0" frameWidth="609" frameHeight="375"/>
+	<SubTexture name="impostor right0004" x="2870" y="1705" width="567" height="375" frameX="0" frameY="0" frameWidth="609" frameHeight="375"/>
+	<SubTexture name="impostor right0005" x="3437" y="1705" width="567" height="375" frameX="0" frameY="0" frameWidth="609" frameHeight="375"/>
+	<SubTexture name="impostor up20000" x="0" y="2096" width="568" height="419" frameX="-212" frameY="-62" frameWidth="814" frameHeight="656"/>
+	<SubTexture name="impostor up20001" x="568" y="2096" width="566" height="419" frameX="-214" frameY="-62" frameWidth="814" frameHeight="656"/>
+	<SubTexture name="impostor up20002" x="1134" y="2096" width="598" height="411" frameX="-216" frameY="-70" frameWidth="814" frameHeight="656"/>
+	<SubTexture name="impostor up20003" x="1732" y="2096" width="590" height="589" frameX="-207" frameY="-67" frameWidth="814" frameHeight="656"/>
+	<SubTexture name="impostor up20004" x="2322" y="2096" width="586" height="648" frameX="-179" frameY="-8" frameWidth="814" frameHeight="656"/>
+	<SubTexture name="impostor up20005" x="2908" y="2096" width="615" height="656" frameX="-156" frameY="0" frameWidth="814" frameHeight="656"/>
+	<SubTexture name="impostor up20006" x="0" y="2752" width="619" height="643" frameX="-148" frameY="-13" frameWidth="814" frameHeight="656"/>
+	<SubTexture name="impostor up20007" x="619" y="2752" width="621" height="605" frameX="-146" frameY="-51" frameWidth="814" frameHeight="656"/>
+	<SubTexture name="impostor up20008" x="1240" y="2752" width="701" height="589" frameX="-66" frameY="-67" frameWidth="814" frameHeight="656"/>
+	<SubTexture name="impostor up20009" x="1941" y="2752" width="744" height="589" frameX="-23" frameY="-67" frameWidth="814" frameHeight="656"/>
+	<SubTexture name="impostor up20010" x="2685" y="2752" width="766" height="581" frameX="-3" frameY="-75" frameWidth="814" frameHeight="656"/>
+	<SubTexture name="impostor up20011" x="0" y="3395" width="773" height="589" frameX="0" frameY="-67" frameWidth="814" frameHeight="656"/>
+	<SubTexture name="impostor up20012" x="773" y="3395" width="773" height="587" frameX="-1" frameY="-69" frameWidth="814" frameHeight="656"/>
+	<SubTexture name="impostor up20013" x="773" y="3395" width="773" height="587" frameX="-1" frameY="-69" frameWidth="814" frameHeight="656"/>
+	<SubTexture name="impostor up20014" x="1546" y="3395" width="773" height="587" frameX="-1" frameY="-69" frameWidth="814" frameHeight="656"/>
+</TextureAtlas>

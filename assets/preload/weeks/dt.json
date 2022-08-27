@@ -1,0 +1,31 @@
+{
+	"storyName": "double trouble ft. lullaby gf",
+	"difficulties": "hard, blackout",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"double-trouble",
+			"impostor",
+			[
+				235,
+				80,
+				115
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

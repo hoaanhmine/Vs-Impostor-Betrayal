@@ -1,0 +1,5317 @@
+{
+	"song": {
+		"player1": "bf",
+		"gfVersion": "gfby",
+		"notes": [
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						21600,
+						2,
+						0
+					],
+					[
+						21750,
+						1,
+						0
+					],
+					[
+						21900,
+						0,
+						0
+					],
+					[
+						22050,
+						1,
+						0
+					],
+					[
+						22200,
+						2,
+						0
+					],
+					[
+						22350,
+						3,
+						0
+					],
+					[
+						22500,
+						2,
+						0
+					],
+					[
+						22650,
+						0,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						22800,
+						2,
+						0
+					],
+					[
+						22950,
+						1,
+						0
+					],
+					[
+						23100,
+						0,
+						0
+					],
+					[
+						23250,
+						1,
+						0
+					],
+					[
+						23400,
+						3,
+						0
+					],
+					[
+						23550,
+						1,
+						0
+					],
+					[
+						23700,
+						0,
+						0
+					],
+					[
+						23850,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						24000,
+						2,
+						0
+					],
+					[
+						24150,
+						1,
+						0
+					],
+					[
+						24300,
+						0,
+						0
+					],
+					[
+						24450,
+						1,
+						0
+					],
+					[
+						24600,
+						2,
+						0
+					],
+					[
+						24750,
+						1,
+						0
+					],
+					[
+						24900,
+						0,
+						0
+					],
+					[
+						25050,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						25200,
+						2,
+						0
+					],
+					[
+						25350,
+						1,
+						0
+					],
+					[
+						25500,
+						0,
+						0
+					],
+					[
+						25650,
+						1,
+						0
+					],
+					[
+						25800,
+						2,
+						0
+					],
+					[
+						25950,
+						3,
+						0
+					],
+					[
+						26100,
+						1,
+						0
+					],
+					[
+						26250,
+						2,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						26400,
+						2,
+						0
+					],
+					[
+						26550,
+						1,
+						0
+					],
+					[
+						26700,
+						0,
+						0
+					],
+					[
+						26850,
+						1,
+						0
+					],
+					[
+						27000,
+						2,
+						0
+					],
+					[
+						27150,
+						3,
+						0
+					],
+					[
+						27300,
+						2,
+						0
+					],
+					[
+						27450,
+						0,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						27600,
+						2,
+						0
+					],
+					[
+						27750,
+						1,
+						0
+					],
+					[
+						27900,
+						0,
+						0
+					],
+					[
+						28050,
+						1,
+						0
+					],
+					[
+						28200,
+						3,
+						0
+					],
+					[
+						28350,
+						1,
+						0
+					],
+					[
+						28500,
+						0,
+						0
+					],
+					[
+						28650,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						28800,
+						2,
+						0
+					],
+					[
+						28950,
+						1,
+						0
+					],
+					[
+						29100,
+						0,
+						0
+					],
+					[
+						29250,
+						1,
+						0
+					],
+					[
+						29400,
+						2,
+						0
+					],
+					[
+						29550,
+						1,
+						0
+					],
+					[
+						29700,
+						0,
+						0
+					],
+					[
+						29850,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						30000,
+						2,
+						0
+					],
+					[
+						30150,
+						1,
+						0
+					],
+					[
+						30300,
+						0,
+						0
+					],
+					[
+						30450,
+						1,
+						0
+					],
+					[
+						30600,
+						2,
+						0
+					],
+					[
+						30750,
+						3,
+						0
+					],
+					[
+						30900,
+						1,
+						0
+					],
+					[
+						31050,
+						2,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						31200,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						31350,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						31425,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						31500,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						31650,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						31725,
+						3,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						31800,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						31950,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						32100,
+						3,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						32175,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						32250,
+						3,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						32325,
+						2,
+						0,
+						"Second Dad Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						32400,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						32550,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						32625,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						32700,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						32850,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						33000,
+						3,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						33150,
+						0,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						33300,
+						3,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						33450,
+						2,
+						0,
+						"Both Dads Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						34350,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						33600,
+						3,
+						225,
+						"Both Dads Sing"
+					],
+					[
+						34200,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						34050,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						33900,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						34500,
+						3,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						34650,
+						0,
+						0,
+						"Both Dads Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						35100,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						35250,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						35400,
+						3,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						35550,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						35700,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						35850,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						34800,
+						1,
+						225,
+						"Both Dads Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						36000,
+						2,
+						0
+					],
+					[
+						36150,
+						1,
+						0
+					],
+					[
+						36225,
+						0,
+						0
+					],
+					[
+						36300,
+						1,
+						0
+					],
+					[
+						36450,
+						2,
+						0
+					],
+					[
+						36525,
+						3,
+						0
+					],
+					[
+						36600,
+						2,
+						0
+					],
+					[
+						36750,
+						1,
+						0
+					],
+					[
+						36900,
+						3,
+						0
+					],
+					[
+						36975,
+						2,
+						0
+					],
+					[
+						37050,
+						3,
+						0
+					],
+					[
+						37125,
+						2,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": true,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						37200,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						37350,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						37425,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						37500,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						37650,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						37800,
+						3,
+						0,
+						"BO"
+					],
+					[
+						37950,
+						0,
+						0,
+						"BO"
+					],
+					[
+						38100,
+						1,
+						0,
+						"BO"
+					],
+					[
+						38250,
+						2,
+						0,
+						"BO"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						38400,
+						1,
+						225,
+						"GF Sing"
+					],
+					[
+						38700,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						38850,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						39000,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						39150,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						39300,
+						1,
+						0,
+						"BO"
+					],
+					[
+						39450,
+						0,
+						0,
+						"BO"
+					],
+					[
+						38400,
+						3,
+						825
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						39600,
+						1,
+						525
+					],
+					[
+						40200,
+						0,
+						525
+					],
+					[
+						39600,
+						2,
+						225,
+						"GF Sing"
+					],
+					[
+						39900,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						40050,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						40200,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						40350,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						40500,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						40650,
+						3,
+						0,
+						"GF Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						40800,
+						6,
+						1125
+					],
+					[
+						40800,
+						1,
+						0
+					],
+					[
+						41100,
+						3,
+						0
+					],
+					[
+						41400,
+						2,
+						0
+					],
+					[
+						41700,
+						1,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						42000,
+						5,
+						1125
+					],
+					[
+						42000,
+						0,
+						0
+					],
+					[
+						42150,
+						1,
+						0
+					],
+					[
+						42300,
+						0,
+						0
+					],
+					[
+						42450,
+						1,
+						0
+					],
+					[
+						42600,
+						3,
+						0
+					],
+					[
+						42750,
+						1,
+						0
+					],
+					[
+						42900,
+						3,
+						0
+					],
+					[
+						43050,
+						1,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						43200,
+						7,
+						1125
+					],
+					[
+						43200,
+						0,
+						0
+					],
+					[
+						43275,
+						3,
+						0
+					],
+					[
+						43350,
+						1,
+						0
+					],
+					[
+						43425,
+						3,
+						0
+					],
+					[
+						43500,
+						0,
+						0
+					],
+					[
+						43575,
+						3,
+						0
+					],
+					[
+						43650,
+						1,
+						0
+					],
+					[
+						43725,
+						3,
+						0
+					],
+					[
+						43800,
+						0,
+						225
+					],
+					[
+						44100,
+						2,
+						225
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						44400,
+						5,
+						1125
+					],
+					[
+						44400,
+						1,
+						1125
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						45900,
+						3,
+						0
+					],
+					[
+						46200,
+						2,
+						0
+					],
+					[
+						46500,
+						1,
+						0
+					],
+					[
+						45600,
+						0,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						46800,
+						0,
+						0
+					],
+					[
+						46950,
+						1,
+						0
+					],
+					[
+						47100,
+						0,
+						0
+					],
+					[
+						47250,
+						1,
+						0
+					],
+					[
+						47400,
+						3,
+						0
+					],
+					[
+						47550,
+						1,
+						0
+					],
+					[
+						47700,
+						3,
+						0
+					],
+					[
+						47850,
+						1,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						48075,
+						3,
+						0
+					],
+					[
+						48225,
+						3,
+						0
+					],
+					[
+						48375,
+						3,
+						0
+					],
+					[
+						48525,
+						3,
+						0
+					],
+					[
+						48300,
+						0,
+						0
+					],
+					[
+						48600,
+						0,
+						225
+					],
+					[
+						48000,
+						0,
+						0
+					],
+					[
+						48150,
+						1,
+						0
+					],
+					[
+						48450,
+						1,
+						0
+					],
+					[
+						48900,
+						2,
+						225
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						49200,
+						1,
+						525
+					],
+					[
+						49800,
+						3,
+						525
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						50400,
+						4,
+						1125,
+						"BO"
+					],
+					[
+						50400,
+						0,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						50700,
+						3,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						51000,
+						1,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						51300,
+						3,
+						0,
+						"Both Dads Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						51600,
+						5,
+						1125,
+						"BO"
+					],
+					[
+						51600,
+						1,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						51750,
+						0,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						51900,
+						1,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						52050,
+						2,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						52200,
+						1,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						52350,
+						2,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						52500,
+						3,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						52650,
+						0,
+						0,
+						"Both Dads Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						52800,
+						7,
+						1125,
+						"BO"
+					],
+					[
+						53325,
+						3,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						53175,
+						3,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						53250,
+						0,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						53100,
+						1,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						52950,
+						1,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						52800,
+						0,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						52875,
+						3,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						53025,
+						3,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						53400,
+						1,
+						225,
+						"Both Dads Sing"
+					],
+					[
+						53700,
+						3,
+						225,
+						"Both Dads Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						54000,
+						6,
+						1125,
+						"BO"
+					],
+					[
+						54000,
+						0,
+						1125,
+						"Both Dads Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						55200,
+						0,
+						0,
+						"BO"
+					],
+					[
+						55500,
+						3,
+						0,
+						"BO"
+					],
+					[
+						55800,
+						1,
+						0,
+						"BO"
+					],
+					[
+						56100,
+						0,
+						0,
+						"BO"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						56400,
+						2,
+						0,
+						"BO"
+					],
+					[
+						56550,
+						0,
+						0,
+						"BO"
+					],
+					[
+						56700,
+						1,
+						0,
+						"BO"
+					],
+					[
+						56850,
+						0,
+						0,
+						"BO"
+					],
+					[
+						57000,
+						3,
+						0,
+						"BO"
+					],
+					[
+						57150,
+						0,
+						0,
+						"BO"
+					],
+					[
+						57300,
+						2,
+						0,
+						"BO"
+					],
+					[
+						57450,
+						3,
+						0,
+						"BO"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						57600,
+						0,
+						0,
+						"BO"
+					],
+					[
+						57825,
+						3,
+						0,
+						"BO"
+					],
+					[
+						57975,
+						3,
+						0,
+						"BO"
+					],
+					[
+						58050,
+						0,
+						0,
+						"BO"
+					],
+					[
+						58200,
+						1,
+						225,
+						"BO"
+					],
+					[
+						58500,
+						2,
+						225,
+						"BO"
+					],
+					[
+						57675,
+						2,
+						0,
+						"BO"
+					],
+					[
+						57750,
+						0,
+						0,
+						"BO"
+					],
+					[
+						57900,
+						1,
+						0,
+						"BO"
+					],
+					[
+						58125,
+						2,
+						0,
+						"BO"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						58800,
+						3,
+						1125,
+						"BO"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						60000,
+						2,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						60450,
+						1,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						60600,
+						0,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						60900,
+						1,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						60900,
+						2,
+						0,
+						"Both Dads Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						61650,
+						1,
+						0
+					],
+					[
+						61800,
+						2,
+						0
+					],
+					[
+						61200,
+						0,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						62100,
+						0,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						61800,
+						3,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						61650,
+						0,
+						0,
+						"Second Dad Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						62400,
+						3,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						62850,
+						1,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						62850,
+						3,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						63000,
+						2,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						63000,
+						0,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						63300,
+						1,
+						0,
+						"Both Dads Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						63600,
+						2,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						63600,
+						3,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						64050,
+						3,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						64200,
+						1,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						64500,
+						3,
+						0,
+						"Both Dads Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						64800,
+						2,
+						0,
+						"BO"
+					],
+					[
+						65250,
+						1,
+						0,
+						"BO"
+					],
+					[
+						65400,
+						3,
+						0,
+						"BO"
+					],
+					[
+						65700,
+						2,
+						0,
+						"BO"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						66000,
+						0,
+						0,
+						"BO"
+					],
+					[
+						66450,
+						1,
+						0,
+						"BO"
+					],
+					[
+						66600,
+						3,
+						0,
+						"BO"
+					],
+					[
+						66900,
+						0,
+						0,
+						"BO"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						67200,
+						3,
+						0,
+						"BO"
+					],
+					[
+						67650,
+						1,
+						0,
+						"BO"
+					],
+					[
+						67800,
+						0,
+						0,
+						"BO"
+					],
+					[
+						68100,
+						1,
+						0,
+						"BO"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						68400,
+						2,
+						0,
+						"BO"
+					],
+					[
+						68850,
+						3,
+						0,
+						"BO"
+					],
+					[
+						69000,
+						1,
+						0,
+						"BO"
+					],
+					[
+						69300,
+						0,
+						0,
+						"BO"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						69600,
+						1,
+						0
+					],
+					[
+						69750,
+						2,
+						0
+					],
+					[
+						69900,
+						3,
+						0
+					],
+					[
+						70050,
+						2,
+						0
+					],
+					[
+						70200,
+						0,
+						0
+					],
+					[
+						70500,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 20,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						70800,
+						3,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						70800,
+						2,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						71250,
+						2,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						71250,
+						3,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						71700,
+						3,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						71700,
+						2,
+						0,
+						"Both Dads Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						72600,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						72900,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						72450,
+						3,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						72300,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						72150,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						72000,
+						1,
+						0,
+						"Second Dad Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						73200,
+						0,
+						0
+					],
+					[
+						73650,
+						0,
+						0
+					],
+					[
+						74100,
+						0,
+						0
+					],
+					[
+						73200,
+						3,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						73650,
+						3,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						74100,
+						3,
+						0,
+						"Second Dad Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						74400,
+						1,
+						0
+					],
+					[
+						74550,
+						2,
+						0
+					],
+					[
+						74700,
+						3,
+						0
+					],
+					[
+						74850,
+						2,
+						0
+					],
+					[
+						75000,
+						0,
+						0
+					],
+					[
+						75300,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						75600,
+						3,
+						0,
+						"BO"
+					],
+					[
+						76050,
+						3,
+						0,
+						"BO"
+					],
+					[
+						76500,
+						3,
+						0,
+						"BO"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						76800,
+						1,
+						0
+					],
+					[
+						76950,
+						0,
+						0
+					],
+					[
+						77100,
+						2,
+						0
+					],
+					[
+						77250,
+						3,
+						0
+					],
+					[
+						77400,
+						2,
+						0
+					],
+					[
+						77700,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": true,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						78000,
+						0,
+						0,
+						"BO"
+					],
+					[
+						78450,
+						3,
+						0,
+						"BO"
+					],
+					[
+						78900,
+						0,
+						0,
+						"BO"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						79200,
+						3,
+						450,
+						"BO"
+					],
+					[
+						79800,
+						0,
+						450,
+						"BO"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						81300,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						81300,
+						3,
+						0
+					],
+					[
+						81150,
+						1,
+						0
+					],
+					[
+						81150,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						81450,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						81450,
+						2,
+						0
+					],
+					[
+						80400,
+						3,
+						0,
+						"BO"
+					],
+					[
+						80700,
+						0,
+						0,
+						"BO"
+					],
+					[
+						81000,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						81000,
+						0,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						81600,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						81750,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						81900,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						82050,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						82200,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						82350,
+						3,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						82425,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						82275,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						82500,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						82650,
+						0,
+						0,
+						"Second Dad Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						82800,
+						3,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						83250,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						82852.5,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						82950,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						82892.8125,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						82987.5,
+						3,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						83025,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						83117.8125,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						83073.75,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						83348.4375,
+						3,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						83400,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						83479.6875,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						83429.0625,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						83535.9375,
+						3,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						83587.5,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						83670.9375,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						83612.8125,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						83712.1875,
+						3,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						83755.3125,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						83794.6875,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						83837.8125,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						83888.4375,
+						3,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						83940,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						83289.375,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						83215.3125,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						83161.875,
+						3,
+						0,
+						"Second Dad Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						84000,
+						0,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						84150,
+						3,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						84300,
+						1,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						84600,
+						2,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						84450,
+						0,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						84750,
+						3,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						84900,
+						1,
+						0,
+						"Both Dads Sing"
+					],
+					[
+						85050,
+						2,
+						0,
+						"Both Dads Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						85800,
+						1,
+						525,
+						"Both Dads Sing"
+					],
+					[
+						85200,
+						0,
+						525,
+						"Both Dads Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						86400,
+						2,
+						0
+					],
+					[
+						86550,
+						1,
+						0
+					],
+					[
+						86700,
+						0,
+						0
+					],
+					[
+						86850,
+						1,
+						0
+					],
+					[
+						87000,
+						2,
+						0
+					],
+					[
+						87150,
+						3,
+						0
+					],
+					[
+						87300,
+						1,
+						0
+					],
+					[
+						87450,
+						0,
+						0
+					],
+					[
+						87075,
+						1,
+						0
+					],
+					[
+						87225,
+						2,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						87600,
+						3,
+						0
+					],
+					[
+						87650.625,
+						2,
+						0
+					],
+					[
+						87693.75,
+						0,
+						0
+					],
+					[
+						87744.375,
+						1,
+						0
+					],
+					[
+						87783.75,
+						3,
+						0
+					],
+					[
+						87830.625,
+						2,
+						0
+					],
+					[
+						87879.375,
+						0,
+						0
+					],
+					[
+						87920.625,
+						1,
+						0
+					],
+					[
+						87960,
+						3,
+						0
+					],
+					[
+						88046.25,
+						0,
+						0
+					],
+					[
+						88089.375,
+						1,
+						0
+					],
+					[
+						88012.5,
+						2,
+						0
+					],
+					[
+						88147.5,
+						3,
+						0
+					],
+					[
+						88200,
+						2,
+						0
+					],
+					[
+						88231.875,
+						0,
+						0
+					],
+					[
+						88282.5,
+						1,
+						0
+					],
+					[
+						88336.875,
+						3,
+						0
+					],
+					[
+						88387.5,
+						2,
+						0
+					],
+					[
+						88419.375,
+						0,
+						0
+					],
+					[
+						88470,
+						1,
+						0
+					],
+					[
+						88513.125,
+						3,
+						0
+					],
+					[
+						88552.5,
+						2,
+						0
+					],
+					[
+						88593.75,
+						0,
+						0
+					],
+					[
+						88638.75,
+						1,
+						0
+					],
+					[
+						88687.5,
+						3,
+						0
+					],
+					[
+						88738.125,
+						2,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						88800,
+						0,
+						0,
+						"BO"
+					],
+					[
+						88950,
+						3,
+						0,
+						"BO"
+					],
+					[
+						89100,
+						1,
+						0,
+						"BO"
+					],
+					[
+						89250,
+						0,
+						0,
+						"BO"
+					],
+					[
+						89400,
+						2,
+						0,
+						"BO"
+					],
+					[
+						89550,
+						0,
+						0,
+						"BO"
+					],
+					[
+						89700,
+						1,
+						0,
+						"BO"
+					],
+					[
+						89850,
+						3,
+						0,
+						"BO"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						90000,
+						0,
+						525,
+						"GF Sing"
+					],
+					[
+						90600,
+						1,
+						525,
+						"GF Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						91200,
+						4,
+						75
+					],
+					[
+						91650,
+						4,
+						75
+					],
+					[
+						92100,
+						4,
+						225
+					],
+					[
+						91200,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						91500,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						91800,
+						3,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						92100,
+						1,
+						0,
+						"Second Dad Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						92400,
+						6,
+						75
+					],
+					[
+						92850,
+						6,
+						75
+					],
+					[
+						93300,
+						6,
+						225
+					],
+					[
+						92400,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						92550,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						92700,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						92850,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						93000,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						93150,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						93300,
+						2,
+						0,
+						"Second Dad Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						93600,
+						5,
+						75
+					],
+					[
+						94050,
+						5,
+						75
+					],
+					[
+						94500,
+						5,
+						225
+					],
+					[
+						93600,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						93900,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						94050,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						94200,
+						2,
+						225,
+						"Second Dad Sing"
+					],
+					[
+						94500,
+						1,
+						225,
+						"Second Dad Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						94800,
+						7,
+						75
+					],
+					[
+						95250,
+						7,
+						75
+					],
+					[
+						95700,
+						7,
+						75
+					],
+					[
+						94800,
+						0,
+						225,
+						"Second Dad Sing"
+					],
+					[
+						95100,
+						2,
+						225,
+						"Second Dad Sing"
+					],
+					[
+						95400,
+						3,
+						225,
+						"Second Dad Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						96000,
+						1,
+						0
+					],
+					[
+						96300,
+						2,
+						0
+					],
+					[
+						96600,
+						3,
+						0
+					],
+					[
+						96900,
+						1,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						97200,
+						0,
+						0
+					],
+					[
+						97350,
+						1,
+						0
+					],
+					[
+						97500,
+						0,
+						0
+					],
+					[
+						97650,
+						1,
+						0
+					],
+					[
+						97800,
+						0,
+						0
+					],
+					[
+						97950,
+						1,
+						0
+					],
+					[
+						98100,
+						2,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						98400,
+						1,
+						0
+					],
+					[
+						98700,
+						0,
+						0
+					],
+					[
+						98850,
+						1,
+						0
+					],
+					[
+						99000,
+						2,
+						225
+					],
+					[
+						99300,
+						1,
+						225
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						99600,
+						0,
+						225
+					],
+					[
+						99900,
+						2,
+						225
+					],
+					[
+						100200,
+						3,
+						225
+					],
+					[
+						100500,
+						2,
+						0
+					],
+					[
+						100650,
+						1,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						100800,
+						4,
+						225
+					],
+					[
+						101100,
+						5,
+						75
+					],
+					[
+						101250,
+						6,
+						150
+					],
+					[
+						101550,
+						6,
+						0
+					],
+					[
+						101700,
+						5,
+						225
+					],
+					[
+						100800,
+						2,
+						0
+					],
+					[
+						101100,
+						2,
+						0
+					],
+					[
+						101250,
+						2,
+						0
+					],
+					[
+						101550,
+						1,
+						0
+					],
+					[
+						101700,
+						0,
+						0
+					],
+					[
+						101850,
+						1,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						102000,
+						4,
+						225
+					],
+					[
+						102300,
+						6,
+						225
+					],
+					[
+						102600,
+						5,
+						225
+					],
+					[
+						102900,
+						6,
+						150
+					],
+					[
+						102000,
+						3,
+						0
+					],
+					[
+						102300,
+						3,
+						0
+					],
+					[
+						102450,
+						3,
+						0
+					],
+					[
+						102750,
+						1,
+						0
+					],
+					[
+						102900,
+						0,
+						0
+					],
+					[
+						103050,
+						2,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						103200,
+						6,
+						1125
+					],
+					[
+						103200,
+						3,
+						0
+					],
+					[
+						103500,
+						3,
+						0
+					],
+					[
+						103650,
+						3,
+						0
+					],
+					[
+						103950,
+						1,
+						0
+					],
+					[
+						104250,
+						2,
+						0
+					],
+					[
+						104100,
+						0,
+						0
+					],
+					[
+						103800,
+						5,
+						225,
+						"GF Sing"
+					],
+					[
+						104100,
+						4,
+						225,
+						"GF Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						104400,
+						7,
+						525
+					],
+					[
+						105000,
+						6,
+						525
+					],
+					[
+						104400,
+						1,
+						0
+					],
+					[
+						104700,
+						1,
+						0
+					],
+					[
+						104850,
+						2,
+						0
+					],
+					[
+						105150,
+						1,
+						0
+					],
+					[
+						105300,
+						0,
+						0
+					],
+					[
+						105450,
+						2,
+						0
+					],
+					[
+						104400,
+						4,
+						1125,
+						"GF Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						105600,
+						5,
+						2325
+					],
+					[
+						106200,
+						4,
+						1725
+					],
+					[
+						105600,
+						3,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						105750,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						105900,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						106050,
+						2,
+						150,
+						"Second Dad Sing"
+					],
+					[
+						106350,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						106500,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						106575,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						106650,
+						2,
+						0,
+						"Second Dad Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						106800,
+						7,
+						1125
+					],
+					[
+						106800,
+						3,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						106950,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						107100,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						107250,
+						0,
+						150,
+						"Second Dad Sing"
+					],
+					[
+						107550,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						107700,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						107775,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						107850,
+						2,
+						0,
+						"Second Dad Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						108000,
+						3,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						108150,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						108300,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						108450,
+						2,
+						150,
+						"Second Dad Sing"
+					],
+					[
+						108750,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						108900,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						108975,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						109050,
+						2,
+						0,
+						"Second Dad Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						109200,
+						1,
+						225,
+						"Second Dad Sing"
+					],
+					[
+						109500,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						109650,
+						3,
+						225,
+						"Second Dad Sing"
+					],
+					[
+						109950,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						110100,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						110250,
+						0,
+						0,
+						"Second Dad Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						110400,
+						3,
+						0
+					],
+					[
+						110550,
+						1,
+						0
+					],
+					[
+						110700,
+						0,
+						0
+					],
+					[
+						110850,
+						2,
+						150
+					],
+					[
+						111150,
+						2,
+						0
+					],
+					[
+						111300,
+						1,
+						0
+					],
+					[
+						111375,
+						0,
+						0
+					],
+					[
+						111450,
+						2,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": true,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						111600,
+						3,
+						0
+					],
+					[
+						111750,
+						2,
+						0
+					],
+					[
+						111900,
+						1,
+						0
+					],
+					[
+						112050,
+						0,
+						150
+					],
+					[
+						112350,
+						0,
+						0
+					],
+					[
+						112500,
+						2,
+						0
+					],
+					[
+						112575,
+						1,
+						0
+					],
+					[
+						112650,
+						2,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": true,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						112800,
+						3,
+						0
+					],
+					[
+						112950,
+						1,
+						0
+					],
+					[
+						113100,
+						0,
+						0
+					],
+					[
+						113250,
+						2,
+						150
+					],
+					[
+						113550,
+						2,
+						0
+					],
+					[
+						113700,
+						0,
+						0
+					],
+					[
+						113775,
+						1,
+						0
+					],
+					[
+						113850,
+						2,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": true,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						114000,
+						1,
+						225
+					],
+					[
+						114300,
+						2,
+						0
+					],
+					[
+						114450,
+						3,
+						225
+					],
+					[
+						114750,
+						2,
+						0
+					],
+					[
+						114900,
+						1,
+						0
+					],
+					[
+						115050,
+						0,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": true,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						115200,
+						2,
+						0
+					],
+					[
+						115350,
+						1,
+						0
+					],
+					[
+						115500,
+						2,
+						0
+					],
+					[
+						115650,
+						1,
+						0
+					],
+					[
+						115800,
+						2,
+						225
+					],
+					[
+						115875,
+						3,
+						150
+					],
+					[
+						116100,
+						1,
+						225
+					],
+					[
+						116175,
+						0,
+						150
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						116400,
+						3,
+						0
+					],
+					[
+						116550,
+						2,
+						0
+					],
+					[
+						116700,
+						3,
+						0
+					],
+					[
+						116850,
+						2,
+						0
+					],
+					[
+						117000,
+						0,
+						225
+					],
+					[
+						117300,
+						2,
+						225
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						117600,
+						1,
+						225
+					],
+					[
+						117900,
+						1,
+						225
+					],
+					[
+						118200,
+						0,
+						225
+					],
+					[
+						118500,
+						3,
+						225
+					],
+					[
+						117600,
+						0,
+						225,
+						"Second Dad Sing"
+					],
+					[
+						117900,
+						3,
+						225,
+						"Second Dad Sing"
+					],
+					[
+						118200,
+						2,
+						225,
+						"Second Dad Sing"
+					],
+					[
+						118500,
+						1,
+						225,
+						"Second Dad Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						118800,
+						1,
+						525
+					],
+					[
+						119400,
+						1,
+						525
+					],
+					[
+						118800,
+						0,
+						525,
+						"Second Dad Sing"
+					],
+					[
+						119400,
+						3,
+						525,
+						"Second Dad Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						120000,
+						3,
+						525
+					],
+					[
+						120000,
+						0,
+						525,
+						"GF Sing"
+					],
+					[
+						120600,
+						1,
+						525,
+						"GF Sing"
+					],
+					[
+						120600,
+						0,
+						525
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						121200,
+						2,
+						525,
+						"GF Sing"
+					],
+					[
+						121200,
+						3,
+						525
+					],
+					[
+						121800,
+						3,
+						525,
+						"GF Sing"
+					],
+					[
+						121800,
+						1,
+						525
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						122400,
+						0,
+						525
+					],
+					[
+						122400,
+						1,
+						525,
+						"GF Sing"
+					],
+					[
+						123000,
+						1,
+						525
+					],
+					[
+						123000,
+						2,
+						525,
+						"GF Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						123600,
+						0,
+						525,
+						"GF Sing"
+					],
+					[
+						123600,
+						2,
+						525
+					],
+					[
+						124200,
+						3,
+						525
+					],
+					[
+						124200,
+						1,
+						525,
+						"GF Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						125400,
+						2,
+						0
+					],
+					[
+						124800,
+						3,
+						0
+					],
+					[
+						124800,
+						7,
+						1125,
+						"GF Sing"
+					],
+					[
+						124800,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						125100,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						125250,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						125400,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						125775,
+						1,
+						0,
+						"Second Dad Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						126000,
+						3,
+						0
+					],
+					[
+						126600,
+						0,
+						0
+					],
+					[
+						126900,
+						3,
+						0
+					],
+					[
+						127050,
+						1,
+						0
+					],
+					[
+						126000,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						126300,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						126450,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						126600,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						126900,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						127050,
+						2,
+						0,
+						"Second Dad Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						127200,
+						2,
+						0
+					],
+					[
+						127800,
+						2,
+						0
+					],
+					[
+						127200,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						127500,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						127575,
+						3,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						127650,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						127725,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						127800,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						128100,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						128175,
+						3,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						128250,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						128325,
+						1,
+						0,
+						"Second Dad Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						128400,
+						2,
+						0
+					],
+					[
+						129000,
+						0,
+						0
+					],
+					[
+						128400,
+						0,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						128700,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						128775,
+						3,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						128850,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						128925,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						129000,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						129150,
+						1,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						129300,
+						2,
+						0,
+						"Second Dad Sing"
+					],
+					[
+						129450,
+						3,
+						0,
+						"Second Dad Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						130200,
+						2,
+						0
+					],
+					[
+						129600,
+						2,
+						0
+					],
+					[
+						130200,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						129600,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						129900,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						130050,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						130575,
+						1,
+						0,
+						"GF Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						130800,
+						3,
+						0
+					],
+					[
+						131400,
+						2,
+						0
+					],
+					[
+						130800,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						131100,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						131250,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						131400,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						131700,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						131850,
+						3,
+						0,
+						"GF Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						132000,
+						2,
+						0
+					],
+					[
+						132600,
+						2,
+						0
+					],
+					[
+						132000,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						132300,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						132375,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						132450,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						132525,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						132600,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						132900,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						132975,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						133050,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						133125,
+						1,
+						0,
+						"GF Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						133200,
+						2,
+						0
+					],
+					[
+						133800,
+						0,
+						0
+					],
+					[
+						133200,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						133800,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						133725,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						133650,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						133575,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						133500,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						133950,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						134100,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						134250,
+						0,
+						0,
+						"GF Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						134400,
+						2,
+						1125
+					],
+					[
+						134400,
+						1,
+						1125
+					],
+					[
+						134400,
+						5,
+						1125,
+						"BO"
+					],
+					[
+						134400,
+						6,
+						1125,
+						"BO"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"events": [],
+		"player2": "rednormalimpostor",
+		"player3": null,
+		"splashSkin": "noteSplashes",
+		"song": "Double Trouble",
+		"needsVoices": true,
+		"arrowSkin": "",
+		"validScore": true,
+		"stage": "dt",
+		"bpm": 200,
+		"speed": 3.1
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "mutated idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				340,
+				-17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "mutated left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-703,
+				-45
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "mutated right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-460,
+				20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "mutated up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				280,
+				370
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "mutated down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mutated Blackalt",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mblack",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		43,
+		43
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 5.5
+}

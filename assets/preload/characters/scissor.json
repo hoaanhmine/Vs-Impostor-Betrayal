@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "scissor idle"
+		},
+		{
+			"offsets": [
+				342,
+				-262
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "scissor left"
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "scissor down"
+		},
+		{
+			"offsets": [
+				-13,
+				121
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "scissor up"
+		},
+		{
+			"offsets": [
+				-388,
+				-207
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "scissor right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/scissor",
+	"position": [
+		-290,
+		-140
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-80,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

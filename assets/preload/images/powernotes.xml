@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="powernotes.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="82" height="152" frameX="0" frameY="0" frameWidth="83" frameHeight="152"/>
+	<SubTexture name="blue0001" x="82" y="0" width="83" height="152"/>
+	<SubTexture name="blue0002" x="165" y="0" width="82" height="152" frameX="0" frameY="0" frameWidth="83" frameHeight="152"/>
+	<SubTexture name="blue0003" x="247" y="0" width="82" height="152" frameX="0" frameY="0" frameWidth="83" frameHeight="152"/>
+	<SubTexture name="green0000" x="329" y="0" width="82" height="152"/>
+	<SubTexture name="green0001" x="411" y="0" width="82" height="152"/>
+	<SubTexture name="green0002" x="0" y="152" width="82" height="152"/>
+	<SubTexture name="green0003" x="82" y="152" width="82" height="152"/>
+	<SubTexture name="purple0000" x="164" y="152" width="152" height="82" frameX="0" frameY="0" frameWidth="152" frameHeight="83"/>
+	<SubTexture name="purple0001" x="316" y="152" width="152" height="82" frameX="0" frameY="0" frameWidth="152" frameHeight="83"/>
+	<SubTexture name="purple0002" x="0" y="304" width="152" height="83"/>
+	<SubTexture name="purple0003" x="152" y="304" width="152" height="83"/>
+	<SubTexture name="red0000" x="304" y="304" width="152" height="82"/>
+	<SubTexture name="red0001" x="0" y="387" width="152" height="82"/>
+	<SubTexture name="red0002" x="152" y="387" width="152" height="82"/>
+	<SubTexture name="red0003" x="304" y="387" width="152" height="82"/>
+</TextureAtlas>

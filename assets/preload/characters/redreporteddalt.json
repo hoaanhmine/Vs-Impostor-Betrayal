@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				110,
+				-260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "impostor altidle"
+		},
+		{
+			"offsets": [
+				322,
+				-322
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "impostor altdown"
+		},
+		{
+			"offsets": [
+				229,
+				-254
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "impostor altright"
+		},
+		{
+			"offsets": [
+				270,
+				-162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "impostor altup"
+		},
+		{
+			"offsets": [
+				339,
+				-253
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "impostor altleft"
+		},
+		{
+			"offsets": [
+				137,
+				-252
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "what",
+			"indices": [],
+			"name": "impostor suprised"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/redrealt",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "impostored",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		51,
+		51
+	],
+	"camera_position": [
+		-460,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

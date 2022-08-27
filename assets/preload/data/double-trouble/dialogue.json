@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.03,
+			"portrait": "green",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "hey beb"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "hey cutie uwu"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "excuse me what the fuck"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "green",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "according to rareblin this is a ship now so fuck you let it happen"
+		},
+		{
+			"speed": 0.01,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "g-gween-c-chan... p-pwotect me... s-sempai..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "please shut the fuck up immediately"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "L"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "green",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "red shut up youre embarassing us"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ayo who that black guy in the background"
+		}
+	]
+}

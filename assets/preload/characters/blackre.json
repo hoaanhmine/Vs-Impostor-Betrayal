@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				430,
+				30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sus idle"
+		},
+		{
+			"offsets": [
+				405,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sus down"
+		},
+		{
+			"offsets": [
+				200,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sus right"
+		},
+		{
+			"offsets": [
+				469,
+				136
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sus up"
+		},
+		{
+			"offsets": [
+				543,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sus left"
+		},
+		{
+			"offsets": [
+				431,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "well",
+			"indices": [],
+			"name": "black well"
+		},
+		{
+			"offsets": [
+				441,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "end",
+			"indices": [],
+			"name": "black end"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blackre",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "black",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		43,
+		43
+	],
+	"camera_position": [
+		-310,
+		30
+	],
+	"sing_duration": 3.1,
+	"scale": 1
+}

@@ -1,0 +1,59 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "vsblack",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"skinwalker",
+			"shapeshifter",
+			[
+				255,
+				20,
+				60
+			]
+		],
+		[
+			"report-edd",
+			"impostored",
+			[
+				246,
+				33,
+				33
+			]
+		],
+		[
+			"top-ten-sus",
+			"blackre",
+			[
+				146,
+				133,
+				80
+			]
+		],
+		[
+			"reactor",
+			"impostor3",
+			[
+				46,
+				213,
+				73
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": true
+}

@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "what the fuck was that lmao",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "green",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "shut up"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "no lol"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "green",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fuck you rap battle me"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "man i gotta fucking piss so badly"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "green",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fucking dumbass"
+		}
+	]
+}

@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "green",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "perpare for trouble"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "and make it trouble"
+		},
+		{
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "green",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "you messed it up!!!11!!1!! ):<<<<<<<"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lmao"
+		},
+		{
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "green",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "shut up!!11!! ):<<<<"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "L + skill issue + ratio + cope"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "loser lmao"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "green",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "green",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "):"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "):"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "((((((:"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh shit look it's black from fridays of the nights of the black of the double cross the is the the the ufvoedbhcivebgwyghfwiodnioucvsdhnuivchsdiuocbefyigiuwebhivebhdfkjdvbcnsuviobhwduivcsohvbuioefhiuosdhnvjohnejdovnj h betrayal"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "black",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "                      "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "black",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "                 "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "black",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "                            "
+		}
+	]
+}

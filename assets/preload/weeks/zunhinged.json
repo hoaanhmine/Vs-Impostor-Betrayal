@@ -1,0 +1,32 @@
+{
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "blackab",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "zunhinged",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"unhinged",
+			"mblack",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "custom week",
+	"hiddenUntilUnlocked": true
+}

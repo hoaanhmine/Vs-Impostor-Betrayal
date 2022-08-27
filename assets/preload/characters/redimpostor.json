@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				-270
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "impostor idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				123,
+				-285
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "impostor down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				-219
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "impostor up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				27,
+				-275
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "impostor left"
+		},
+		{
+			"offsets": [
+				171,
+				-260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "impostor right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-222
+			],
+			"anim": "death",
+			"fps": 24,
+			"name": "impostor death",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-477
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "impostor altidle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/redimpostor",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "impostor",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		51,
+		51
+	],
+	"camera_position": [
+		-120,
+		330
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

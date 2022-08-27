@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "betrayal",
+		"player1": "greenimpostor",
+		"player2": "black",
+		"player3": null,
+		"events": [
+			[
+				120000,
+				[
+					[
+						"Play Animation",
+						"death",
+						"gf"
+					]
+				]
+			],
+			[
+				120514.285714285,
+				[
+					[
+						"Change Character",
+						"bf",
+						"nogf"
+					]
+				]
+			],
+			[
+				120600,
+				[
+					[
+						"Change Character",
+						"bf",
+						"greenimpostorstressed"
+					]
+				]
+			],
+			[
+				120685.714285714,
+				[
+					[
+						"Alt Idle Animation",
+						"gf",
+						"-alt"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "redimpostor",
+		"bpm": 175,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "betrayal-blackout"
+	}
+}

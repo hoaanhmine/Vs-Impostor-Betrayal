@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mgblack.png"><SubTexture name="mgblack idle0000" x="471" y="762" width="463" height="367" frameX="-71" frameY="-33" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack idle0001" x="1378" y="362" width="470" height="361" frameX="-55" frameY="-39" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack idle0002" x="747" y="1130" width="459" height="345" frameX="-45" frameY="-55" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack idle0003" x="1378" y="0" width="471" height="362" frameX="-45" frameY="-38" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack idle0004" x="0" y="762" width="471" height="368" frameX="-59" frameY="-32" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack idle0005" x="908" y="0" width="470" height="371" frameX="-71" frameY="-29" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack right0000" x="908" y="371" width="363" height="370" frameX="-130" frameY="-29" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack right0001" x="367" y="1130" width="380" height="352" frameX="-127" frameY="-47" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack right0002" x="765" y="1485" width="432" height="335" frameX="-102" frameY="-64" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack right0003" x="0" y="1485" width="410" height="342" frameX="-106" frameY="-58" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack right0004" x="1378" y="723" width="364" height="357" frameX="-125" frameY="-43" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack up0000" x="465" y="1827" width="371" height="294" frameX="-106" frameY="-105" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack up0001" x="1849" y="0" width="350" height="317" frameX="-106" frameY="-83" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack up0002" x="410" y="1485" width="355" height="339" frameX="-106" frameY="-62" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack up0003" x="0" y="1130" width="367" height="355" frameX="-100" frameY="-45" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack up0004" x="934" y="762" width="395" height="363" frameX="-91" frameY="-38" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack down0000" x="1206" y="1130" width="458" height="344" frameX="-119" frameY="-56" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack down0001" x="0" y="1827" width="465" height="317" frameX="-116" frameY="-82" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack down0002" x="1197" y="1485" width="464" height="325" frameX="-117" frameY="-74" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack left0000" x="0" y="0" width="309" height="384" frameX="-95" frameY="-15" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack left0001" x="0" y="384" width="269" height="378" frameX="-123" frameY="-22" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack left0002" x="309" y="0" width="253" height="380" frameX="-136" frameY="-20" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack left0003" x="269" y="384" width="366" height="378" frameX="-127" frameY="-21" frameWidth="581" frameHeight="430" />
+<SubTexture name="mgblack left0004" x="562" y="0" width="346" height="380" frameX="-143" frameY="-18" frameWidth="581" frameHeight="430" />
+</TextureAtlas>

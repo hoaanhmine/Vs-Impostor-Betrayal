@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				150,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "impostor idle"
+		},
+		{
+			"offsets": [
+				202,
+				-253
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "impostor down"
+		},
+		{
+			"offsets": [
+				116,
+				-137
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "impostor up"
+		},
+		{
+			"offsets": [
+				111,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "impostor left"
+		},
+		{
+			"offsets": [
+				258,
+				-244
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "impostor right"
+		},
+		{
+			"offsets": [
+				82,
+				-230
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "impostor loop"
+		},
+		{
+			"offsets": [
+				98,
+				-214
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "impostor dodge"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/greenimpostorstressed",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "impostor3",
+	"flip_x": false,
+	"healthbar_colors": [
+		64,
+		171,
+		34
+	],
+	"camera_position": [
+		30,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,49 @@
+{
+	"storyName": "???",
+	"difficulties": "hard, blackout",
+	"hideFreeplay": false,
+	"weekBackground": "black",
+	"weekBefore": "dt",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"overboard",
+			"impostor3",
+			[
+				43,
+				163,
+				43
+			]
+		],
+		[
+			"betrayal",
+			"black",
+			[
+				43,
+				43,
+				43
+			]
+		],
+		[
+			"DEFEAT",
+			"black",
+			[
+				23,
+				23,
+				23
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
+}

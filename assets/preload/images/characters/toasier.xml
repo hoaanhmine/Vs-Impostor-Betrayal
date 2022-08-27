@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="toasier.png"><SubTexture name="toasier idle0000" x="542" y="394" width="461" height="371" frameX="-11" frameY="-38" frameWidth="650" frameHeight="466" />
+<SubTexture name="toasier idle0001" x="0" y="1144" width="464" height="363" frameX="-5" frameY="-46" frameWidth="650" frameHeight="466" />
+<SubTexture name="toasier idle0002" x="775" y="773" width="464" height="365" frameX="-16" frameY="-44" frameWidth="650" frameHeight="466" />
+<SubTexture name="toasier idle0003" x="0" y="773" width="468" height="371" frameX="-7" frameY="-38" frameWidth="650" frameHeight="466" />
+<SubTexture name="toasier slash0000" x="1591" y="0" width="587" height="348" frameX="-138" frameY="-62" frameWidth="874" frameHeight="466" />
+<SubTexture name="toasier slash0001" x="0" y="0" width="546" height="394" frameX="-138" frameY="-15" frameWidth="874" frameHeight="466" />
+<SubTexture name="toasier slash0002" x="546" y="0" width="500" height="391" frameX="-138" frameY="-18" frameWidth="874" frameHeight="466" />
+<SubTexture name="toasier up0000" x="1046" y="379" width="517" height="378" frameX="0" frameY="-38" frameWidth="874" frameHeight="466" />
+<SubTexture name="toasier up0001" x="0" y="394" width="542" height="379" frameX="0" frameY="-38" frameWidth="874" frameHeight="466" />
+<SubTexture name="toasier up0002" x="1046" y="0" width="545" height="379" frameX="-1" frameY="-38" frameWidth="874" frameHeight="466" />
+<SubTexture name="toasier down0000" x="464" y="1144" width="307" height="361" frameX="-123" frameY="-48" frameWidth="874" frameHeight="466" />
+<SubTexture name="toasier down0001" x="468" y="773" width="307" height="371" frameX="-123" frameY="-38" frameWidth="874" frameHeight="466" />
+<SubTexture name="toasier right0000" x="771" y="1144" width="320" height="361" frameX="-129" frameY="-48" frameWidth="874" frameHeight="466" />
+<SubTexture name="toasier right0001" x="1091" y="1144" width="309" height="361" frameX="-126" frameY="-48" frameWidth="874" frameHeight="466" />
+<SubTexture name="toasier left0000" x="1239" y="773" width="339" height="362" frameX="-110" frameY="-47" frameWidth="874" frameHeight="466" />
+</TextureAtlas>
